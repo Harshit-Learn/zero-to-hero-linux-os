@@ -1,5 +1,4 @@
 
-
 ---
 
 ## 🐧 Day 9 - Vim Editor Shortcuts
@@ -165,5 +164,3 @@ Ctrl + w + w → switch window
 10. What will happen if you forget to save before exit?
 
 ---
-
-
