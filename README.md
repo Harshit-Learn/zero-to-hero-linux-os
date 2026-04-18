@@ -1,2 +1,2 @@
-**zero-to-hero-linux-os**
+# zero-to-hero-linux-os
 
